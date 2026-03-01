@@ -1,4 +1,4 @@
-# Contribuindo para MiniRPG
+# Contribuindo para Horario_php
 
 Obrigado por considerar contribuir! Siga estes passos básicos:
 
